@@ -1,0 +1,4 @@
+git clone ... % to clone
+git add ... % to add something to your branch
+git commit -m "Short comment" -m "Long comment" % to add it to your local git
+git push origin master % to push your local git into the main branch

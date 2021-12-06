@@ -1,4 +1,5 @@
-git clone ... % to clone
+git clone ... % to clone a repository
 git add ... % to add something to your branch
 git commit -m "Short comment" -m "Long comment" % to add it to your local git
 git push -u origin master % to push your local git into the main branch
+git status % to see the status
